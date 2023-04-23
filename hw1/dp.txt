@@ -1,0 +1,46 @@
+
+
+dp1.c
+Total_time: 8.745117
+N: 1000000 <T in sec>: 0.000000 sec <T in usec>: 0.017490 usec B: 425985.181253 GB/sec F: 114349.526379 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp1.c
+Total_time: 0.194336
+N: 300000000 <T in sec>: 0.000000 sec <T in usec>: 0.019434 usec B: 115016000.163323 GB/sec F: 30874372.451138 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp2.c
+Total_time: 8.749023
+N: 1000000 <T in sec>: 0.000000 sec <T in usec>: 0.017498 usec B: 425795.001848 GB/sec F: 114298.475484 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp2.c
+Total_time: 0.184570
+N: 300000000 <T in sec>: 0.000000 sec <T in usec>: 0.018457 usec B: 121101502.940294 GB/sec F: 32507937.164063 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp3.c
+Total_time: 157844.468750
+N: 1000000 <T in sec>: 0.000316 sec <T in usec>: 315.688934 usec B: 23.601019 GB/sec F: 6.335350 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp3.c
+Total_time: 1778528.000000
+N: 300000000 <T in sec>: 0.177853 sec <T in usec>: 177852.796875 usec B: 12.567551 GB/sec F: 3.373576 GFLOP/sec ai: 0.268435 FLOP/byte
+
+dp4.py
+N: 1000000 <T in usec>: 0.285048105 sec B: 0.026138 GB/sec F: 0.007016 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp4.py
+N: 300000000 <T in usec>: 78.785417936 sec B: 0.028370 GB/sec F: 0.007616 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp4.py
+N: 1000000 <T in usec>: 0.000316833 sec B: 23.515799 GB/sec F: 6.312474 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp4.py
+N: 300000000 <T in usec>: 0.209151655 sec B: 10.686859 GB/sec F: 2.868732 GFLOP/sec ai: 0.268435 FLOP/byte
+

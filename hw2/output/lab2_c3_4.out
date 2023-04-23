@@ -1,0 +1,26 @@
+
+
+Loading Dataset
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+
+
+Training
+
+
+No. of workers: 4
+Cuda: cpu
+Optimizer: sgd
+Epoch 1/5: loss=2.0415 | acc=28.37 || Total time -> epoch: 152.6602 s | data: 0.7651 s | train: 151.8098 s
+
+Epoch 2/5: loss=1.5275 | acc=43.41 || Total time -> epoch: 163.7836 s | data: 0.7742 s | train: 162.9372 s
+
+Epoch 3/5: loss=1.3244 | acc=51.75 || Total time -> epoch: 165.8933 s | data: 0.7726 s | train: 165.0520 s
+
+Epoch 4/5: loss=1.1342 | acc=59.54 || Total time -> epoch: 165.8062 s | data: 0.7670 s | train: 164.9704 s
+
+Epoch 5/5: loss=0.9864 | acc=64.74 || Total time -> epoch: 163.4547 s | data: 0.7639 s | train: 162.6218 s
+
+After 5 epochs: loss=0.9864 | acc=64.74 || Total time 811.5981 s | Avg Time -> epoch: 162.3196 s | data: 0.7686 s | train: 161.4783 s

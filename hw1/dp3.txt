@@ -1,0 +1,10 @@
+
+
+dp3.c
+Total_time: 157725.453125
+N: 1000000 <T in sec>: 0.000315 sec <T in usec>: 315.450897 usec B: 23.618828 GB/sec F: 6.340131 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp3.c
+Total_time: 2111191.250000
+N: 300000000 <T in sec>: 0.211119 sec <T in usec>: 211119.125000 usec B: 10.587265 GB/sec F: 2.841997 GFLOP/sec ai: 0.268435 FLOP/byte

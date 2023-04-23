@@ -1,0 +1,29 @@
+
+
+dp1.c
+Total_time: 575342.250000
+N: 1000000 <T in sec>: 0.001151 sec <T in usec>: 1150.684448 usec B: 6.474912 GB/sec F: 1.738096 GFLOP/sec ai: 0.268435 FLOP/byte
+
+dp1.c
+Total_time: 3580474.250000
+N: 300000000 <T in sec>: 0.358047 sec <T in usec>: 358047.437500 usec B: 6.242676 GB/sec F: 1.675756 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp2.c
+Total_time: 189371.171875
+N: 1000000 <T in sec>: 0.000379 sec <T in usec>: 378.742340 usec B: 19.671898 GB/sec F: 5.280635 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp2.c
+Total_time: 2102167.500000
+N: 300000000 <T in sec>: 0.210217 sec <T in usec>: 210216.750000 usec B: 10.632712 GB/sec F: 2.854197 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp3.c
+Total_time: 157380.687500
+N: 1000000 <T in sec>: 0.000315 sec <T in usec>: 314.761383 usec B: 23.670568 GB/sec F: 6.354020 GFLOP/sec ai: 0.268435 FLOP/byte
+
+
+dp3.c
+Total_time: 1693926.125000
+N: 300000000 <T in sec>: 0.169393 sec <T in usec>: 169392.609375 usec B: 13.195228 GB/sec F: 3.542067 GFLOP/sec ai: 0.268435 FLOP/byte

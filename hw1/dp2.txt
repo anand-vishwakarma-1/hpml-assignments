@@ -1,0 +1,4 @@
+Total_time: 8.604492
+N: 1000000 <T in usec>: 0.017209 usec B: 0.432947 GB/usec F: 0.058109 GFLOP/usec
+Total_time: 0.192139
+N: 300000000 <T in usec>: 0.019214 usec B: 116.331306 GB/usec F: 15.613724 GFLOP/usec

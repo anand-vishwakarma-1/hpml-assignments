@@ -1,0 +1,15 @@
+dp4.py
+N: 1000000 <T in usec>: 281059285.002000 usec B: 0.026509 GB/sec F: 0.003558 GFLOP/sec
+
+
+dp4.py
+N: 300000000 <T in usec>: 84769222189.300003 usec B: 0.026368 GB/sec F: 0.003539 GFLOP/sec
+
+
+dp4.py
+N: 1000000 <T in usec>: 0.287813228 sec B: 0.025887 GB/sec F: 0.006949 GFLOP/sec
+
+
+dp4.py
+N: 1000000 <T in usec>: 0.293186158 sec B: 0.025412 GB/sec F: 0.006822 GFLOP/sec ai: 0.268435 FLOP/byte
+
